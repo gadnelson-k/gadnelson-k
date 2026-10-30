@@ -21,8 +21,8 @@ Digital assets: finance for foundations and crypto-native organisations
 **Credentials and professional associations.**
 
 FCCA, Fellow of the Association of Chartered Certified Accountants  
-CIIPA, Cayman Islands Institute of Professional Accountants
-Breezing Certified Advisor
+CIIPA, Cayman Islands Institute of Professional Accountants  
+Breezing Certified Advisor  
 Member, Onchain Institute of Finance
 
 **Currently**
