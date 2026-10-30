@@ -2,8 +2,8 @@
 
 I'm a Fellow chartered accountant (FCCA) with 12 years in financial services. I spent nine years in Big 4 audit, finishing as an Audit Manager at EY Cayman over banks, investment funds, Insurance Companies and SEC-reporting SPACs.
 
-I then led finance and operations at Tenet Bank, a CIMA-regulated start-up bank whose clients included Web3 foundations and DAOs. There I:
-wrote the bank's accounting policies and procedures and built its control framework from scratch, owned the budget, Board reporting and month-end close processes
+I then led finance and operations at Tenet Bank, a CIMA-regulated start-up bank whose clients included Web3 foundations and DAOs.   
+There I, help write the banks operations policies for the operations team to follow as well as the bank's accounting policies and procedures and helped build its control framework from scratch,.
 Prepared monthly, quarterly and annual financial statements in accordance with International Financial Reporting Standards.
 My other non operational responsibilities included preparing and filing the bank's CIMA(Cayman Islands Monetary Authority) regulatory reports that were filed on a monthly basis and Quarterly basis  such as the Minimum Liquidity and Quarterly Prudential Returns. My other regulatory filings I did related to the Basel reporting such as the LBS (Locational Banking Statistics).
 Led the Bank through its first external audit of the financial statements where we achieved a clean opinion and filed the financial statements with the regulator on a timely basis.
