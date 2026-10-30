@@ -12,18 +12,18 @@ I learn new domains fast: I joined Tenet from a Big 4 firm, having no operations
 
 **What I work on**
 
-- Financial reporting: IFRS statements, management accounts, Board reporting
-Controls and audit: accounting policies, internal controls, audit readiness
-Regulatory reporting: CIMA returns and regulated-entity compliance
-Treasury: liquidity, cash management and investment programmes
-Digital assets: finance for foundations and crypto-native organisations
+- Financial reporting: IFRS statements, management accounts, Board reporting.
+- Controls and audit: accounting policies, internal controls, audit readiness.
+- Regulatory reporting: CIMA returns and regulated-entity compliance.
+- Treasury: liquidity, cash management and investment programmes.
+- Digital assets: finance for foundations and crypto-native organisations.
 
 **Credentials and professional associations.**
 
-FCCA, Fellow of the Association of Chartered Certified Accountants  
-CIIPA, Cayman Islands Institute of Professional Accountants  
-Breezing Certified Advisor  
-Member, Onchain Institute of Finance
+- FCCA, Fellow of the Association of Chartered Certified Accountants  
+- CIIPA, Cayman Islands Institute of Professional Accountants  
+- Breezing Certified Advisor(2026) https://app.onchainfinanceinstitute.com/certificates/breezing-certified-advisor-gad-nelson-kisambira-5bc5a6ca
+- Member, Onchain Institute of Finance
 
 **Currently**
 
