@@ -27,11 +27,11 @@ I learn new domains fast: I joined Tenet from a Big 4 firm, having no operations
 
 **Currently**
 
-Available for Financial Controller, Head of Finance, operations roles and fractional finance leadership roles.   
-Studying for the treasury and financial risk credentials with an interest in Quant studies CTP,FRM, CQF. 
+- Available for Financial Controller, Head of Finance, operations roles and fractional finance leadership roles.   
+- Studying for the treasury and financial risk credentials with an interest in Quant studies CTP,FRM, CQF. 
 
 
 **Get in touch**
 
-Email: gadnelson@gmail.com
-LinkedIn: https://www.linkedin.com/in/gad-nelson-kisambira-fcca-b2234533/
+- Email: gadnelson@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/gad-nelson-kisambira-fcca-b2234533/
