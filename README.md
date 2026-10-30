@@ -7,7 +7,7 @@ wrote the bank's accounting policies and procedures and built its control framew
 cut the month-end close from two weeks to three business days'
 Took the bank to its first clean external audit opinion
 
-I learn new domains fast: I joined Tenet with no operations background and was running deposits, payments and the close within months.
+I learn new domains fast: I joined Tenet from a Big 4 firm, having no operations background and was running deposits, payments and the close within months.
 
 What I work on
 Financial reporting: IFRS statements, management accounts, Board reporting
