@@ -12,7 +12,7 @@ I learn new domains fast: I joined Tenet from a Big 4 firm, having no operations
 
 **What I work on**
 
-Financial reporting: IFRS statements, management accounts, Board reporting
+- Financial reporting: IFRS statements, management accounts, Board reporting
 Controls and audit: accounting policies, internal controls, audit readiness
 Regulatory reporting: CIMA returns and regulated-entity compliance
 Treasury: liquidity, cash management and investment programmes
