@@ -1,4 +1,4 @@
-About me
+**About me**
 
 I'm a chartered accountant (FCCA) with 12 years in financial services. I spent nine years in Big 4 audit, finishing as an Audit Manager at EY Cayman over banks, investment funds, captive insurers and SEC-reporting SPACs.
 
@@ -10,20 +10,28 @@ Led the Bank through its first external audit of the financial statements where 
 
 I learn new domains fast: I joined Tenet from a Big 4 firm, having no operations background and was running deposits, payments and the close within months.
 
-What I work on
+**What I work on**
+
 Financial reporting: IFRS statements, management accounts, Board reporting
 Controls and audit: accounting policies, internal controls, audit readiness
 Regulatory reporting: CIMA returns and regulated-entity compliance
 Treasury: liquidity, cash management and investment programmes
 Digital assets: finance for foundations and crypto-native organisations
-Credentials and professional associations.
+
+**Credentials and professional associations.**
+
 FCCA, Fellow of the Association of Chartered Certified Accountants
 CIIPA, Cayman Islands Institute of Professional Accountants
 Breezing Certified Advisor
 Member, Onchain Institute of Finance
-Currently
-Available for Financial Controller, Head of Finance and fractional finance leadership roles
+
+**Currently**
+
+Available for Financial Controller, Head of Finance, operations roles and fractional finance leadership roles.
 Studying for the treasury and financial risk credentials with an interest in Quant studies CTP,FRM, CQF. 
-Get in touch
+
+
+**Get in touch**
+
 Email: gadnelson@gmail.com
 LinkedIn: https://www.linkedin.com/in/gad-nelson-kisambira-fcca-b2234533/
