@@ -27,7 +27,7 @@ Member, Onchain Institute of Finance
 
 **Currently**
 
-Available for Financial Controller, Head of Finance, operations roles and fractional finance leadership roles.
+Available for Financial Controller, Head of Finance, operations roles and fractional finance leadership roles.   
 Studying for the treasury and financial risk credentials with an interest in Quant studies CTP,FRM, CQF. 
 
 
