@@ -1,6 +1,6 @@
 **About me**
 
-I'm a Fellow chartered accountant (FCCA) with 12 years in financial services. I spent nine years in Big 4 audit, finishing as an Audit Manager at EY Cayman over banks, investment funds, captive insurers and SEC-reporting SPACs.
+I'm a Fellow chartered accountant (FCCA) with 12 years in financial services. I spent nine years in Big 4 audit, finishing as an Audit Manager at EY Cayman over banks, investment funds, Insurance Companies and SEC-reporting SPACs.
 
 I then led finance and operations at Tenet Bank, a CIMA-regulated start-up bank whose clients included Web3 foundations and DAOs. There I:
 wrote the bank's accounting policies and procedures and built its control framework from scratch, owned the budget, Board reporting and month-end close processes
