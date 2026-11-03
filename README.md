@@ -8,8 +8,6 @@ I was also involved in the preparation of monthly, quarterly and annual financia
 My other non operational responsibilities included preparing and filing the bank's CIMA(Cayman Islands Monetary Authority) regulatory reports that were filed on a monthly basis and Quarterly basis  such as the Minimum Liquidity and Quarterly Prudential Returns. My other regulatory filings I did related to the Basel reporting such as the LBS (Locational Banking Statistics).    
 I have experience with dealing with internal and external auditors, I Led the Bank through its first external audit of the financial statements where we achieved a clean opinion and filed the financial statements with the regulator on a timely basis. I was also charged with responding and providing information requests to the Outsourced Internal auditors.
 
-I learn new domains fast: I joined Tenet from a Big 4 firm, having no operations background and was running deposits, payments and the close within months.
-
 **What I work on**
 
 - Financial reporting: IFRS statements, management accounts, Board reporting.
