@@ -26,7 +26,7 @@ I have experience with dealing with internal and external auditors, I Led the Ba
 **Currently**
 
 - Available for Financial Controller, Head of Finance, operations roles and fractional finance leadership roles.   
-- Studying for the treasury and financial risk credentials with an interest in Quant studies CTP,FRM, CQF.
+- Currently pursuing treasury, risk and quant credentials: **CTP** (Certified Treasury Professional), **FRM** (Financial Risk Manager) and **CQF** (Certificate in Quantitative Finance).
 - Actively engaged in understanding how blockchain techology,Crypto and Decentralized Finance (DeFi) represent a major evolution in financial market infrastructure.
 
 **Get in touch**
